@@ -26,7 +26,7 @@ export const LoginPage = () => {
 
   return (
     <Stack w="100%" h="100vh" align="center" justify="center" p="md" style={{
-      backgroundImage: 'url("public/bg-login.jpg")',
+      backgroundImage: `url(https://t3.ftcdn.net/jpg/03/55/60/70/360_F_355607062_zYMS8jaz4SfoykpWz5oViRVKL32IabTP.jpg)`,
       backgroundSize: 'cover',
       backgroundPosition: 'center',
     }}>
