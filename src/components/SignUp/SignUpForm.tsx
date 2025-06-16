@@ -41,8 +41,8 @@ const SignUpForm = ({ onSubmit }: Props) => {
       <div className="flex flex-col mt-3 gap-3">
         <TextInput
           size="md"
-          label="email"
-          placeholder="Введите email"
+          label="Почту"
+          placeholder="Введите Почту"
           {...form.getInputProps("email")}
           radius={12}
         />
